@@ -1,0 +1,10 @@
+/home/cs18/Desktop/nori-master/build/CMakeFiles/tbb_p.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/IlmBase_p.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/OpenEXR_p.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/nanogui_p.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/pugixml.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/nori.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/warptest.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/tonemapper.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/edit_cache.dir
+/home/cs18/Desktop/nori-master/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/tbb.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/tbbmalloc.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/tbbmalloc_proxy.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/edit_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/list_install_components.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/install.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/install/local.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/tbb_p-build/CMakeFiles/install/strip.dir

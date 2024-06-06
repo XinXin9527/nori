@@ -1,0 +1,11 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/snap/cmake/1384/bin/cmake;-E;rm;-rf;/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p;COMMAND;/snap/cmake/1384/bin/cmake;-E;copy_directory;/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p/ext/glfw;/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p
+source_dir=/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p
+work_dir=/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src
+url(s)=/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p/ext/glfw
+hash=
+

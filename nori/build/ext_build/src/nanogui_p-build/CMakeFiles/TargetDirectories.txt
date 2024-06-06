@@ -1,0 +1,10 @@
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/bin2c.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/glfw_p.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/nanogui.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/example.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/edit_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/list_install_components.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/install.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/install/local.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/CMakeFiles/install/strip.dir

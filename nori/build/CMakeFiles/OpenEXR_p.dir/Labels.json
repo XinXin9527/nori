@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/CMakeFiles/OpenEXR_p"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/CMakeFiles/OpenEXR_p.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/CMakeFiles/OpenEXR_p-complete.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-build.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-configure.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-download.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-install.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-mkdir.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-patch.rule"
+		},
+		{
+			"file" : "/home/cs18/Desktop/nori-master/build/ext_build/src/OpenEXR_p-stamp/OpenEXR_p-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"OpenEXR_p"
+		],
+		"name" : "OpenEXR_p"
+	}
+}

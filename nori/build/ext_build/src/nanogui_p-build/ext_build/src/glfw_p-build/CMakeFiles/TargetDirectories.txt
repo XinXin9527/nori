@@ -1,0 +1,14 @@
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/uninstall.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/edit_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/list_install_components.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/install.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/install/local.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/CMakeFiles/install/strip.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/glfw.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/edit_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/list_install_components.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/install.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/install/local.dir
+/home/cs18/Desktop/nori-master/build/ext_build/src/nanogui_p-build/ext_build/src/glfw_p-build/src/CMakeFiles/install/strip.dir
